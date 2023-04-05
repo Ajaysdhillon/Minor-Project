@@ -37,7 +37,7 @@
 |         **Fund raising** | Backers              | A backer can support to a campaign by raising atleast minimum amount _(as set at the time of campaign creation)_. Contributed amount will be stored in the smart contract until the project end.                                  |
 |       **Abort campaign** | Fund raiser          | Fund raiser can abort campaign (before deadline) - with whatsoever may be the reason. In this case, all the raised funds (if any) will be payed back to backers.                                                                  |
 | **Ending & withdrawing** | Fund raiser          | Fund raiser can end the campaign [ONLY] after the deadline & campaign has reached its goal. Else they need to abort to pay back to backers.                                                                                       |
-
+<!--
 ## Kept for next version 💼
 
 |                          **Feature** |    **User**     | **Purpose**                                                                                                                                                                                                                                                              |
@@ -50,6 +50,7 @@
 |                      **Funds usage** | Backer / public | A page which shows the flow of funds (_Inflow:_ from backers, _Outflow:_ by fundraiser with a reason) with all the transaction IDs which can be checked publicly via [etherscan.io](https://etherscan.io)<br/>**Why?** to provide transparency.                          |
 | **Searching campaigns with filters** |     Public      | (Mainly) to facilitate backers & public, to search for campaigns & know the status of it, usage of funds ... etc.,                                                                                                                                                       |
 |        **Backers withdrawing funds** |     Backer      | This is still in question.                                                                                                                                                                                                                                               |
+-->
 
 # Understanding application flow
 
@@ -74,7 +75,7 @@
 
 Now, good to go.
 Ready with understanding and basic setup.
-
+<!--
 ## Understanding the flow of application (with screenshots) 📸
 
 **Home page**
@@ -151,6 +152,7 @@ Ready with understanding and basic setup.
 - This provides transparency and trust that,
   - When backer has funded, with what amount..
   - When did the campaign has ended, aborted...
+  -->
 
 # Ingredients of recipe
 
@@ -274,14 +276,10 @@ _(Majorly...)_
    - their templates, for ready use & little customization.
    - for implementing various design components
 
-# Docs & reports 📘
 
-- Detailed Documentation PDF version - [_Earlier version_](https://drive.google.com/file/d/1k-kUZ3tw3iFYRNsqDxP8UjEcs0CnIu1K/view?usp=sharing), [_Latest with new changes_](https://drive.google.com/file/d/1AAaWbmMpCXoIaLle3ne3xcyUUrJ9TbNi/view?usp=sharing)
-- PPTs - [Review_1 - Introduction, SRS & Literature Survey](https://drive.google.com/file/d/1pClPlQjDtnnx3ibsLzgpA3nKgT4GuNIh/view?usp=sharing), [Review_2- System Design, Use cases & Sequence diagrams](https://drive.google.com/file/d/1L1RBqO5CgtdZDzJoeR5TE6tjPZieNk8L/view?usp=sharing), Review\*3 - Implementation screenshots, conclusion & future upgrades _(Not prepared, but all these are available in this README.md)_
-- Design files - [done in app.diagrams.net _(formerly draw.io)_](https://drive.google.com/file/d/1Jc0BBMfM1klZfjZ2x4Wah0PLK0q1V8qP/view?usp=sharing)
 
 # Acknowledgements
 
 _(Specially)_
 
-- Finally, to Omniscient, without whom, this project doesn't even reach this stage. All is **HIS** grace, nothing is mine.
+- Finally, to Omniscient, without whom, this project doesn't even reach this stage. All is **HIS** grace, nothing is ours.
