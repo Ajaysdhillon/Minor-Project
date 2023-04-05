@@ -82,12 +82,11 @@
 
 Now, good to go.
 Ready with understanding and basic setup.
-
+<!--
 ## Understanding the flow of application (with screenshots) 📸
 
 **Home page**
 ![](docs/HomePage.png)
-
 ### **1. Wallet connection**
 
 1. Click on **Connect Wallet** at top-right in navbar.
@@ -159,7 +158,7 @@ Ready with understanding and basic setup.
 - This provides transparency and trust that,
   - When backer has funded, with what amount..
   - When did the campaign has ended, aborted...
-
+-->
 # Ingredients of recipe
 
 ## Packages used 📦
@@ -282,14 +281,10 @@ _(Majorly...)_
    - their templates, for ready use & little customization.
    - for implementing various design components
 
-# Docs & reports 📘
 
-- Detailed Documentation PDF version - [_Earlier version_](https://drive.google.com/file/d/1k-kUZ3tw3iFYRNsqDxP8UjEcs0CnIu1K/view?usp=sharing), [_Latest with new changes_](https://drive.google.com/file/d/1AAaWbmMpCXoIaLle3ne3xcyUUrJ9TbNi/view?usp=sharing)
-- PPTs - [Review_1 - Introduction, SRS & Literature Survey](https://drive.google.com/file/d/1pClPlQjDtnnx3ibsLzgpA3nKgT4GuNIh/view?usp=sharing), [Review_2- System Design, Use cases & Sequence diagrams](https://drive.google.com/file/d/1L1RBqO5CgtdZDzJoeR5TE6tjPZieNk8L/view?usp=sharing), Review\*3 - Implementation screenshots, conclusion & future upgrades _(Not prepared, but all these are available in this README.md)_
-- Design files - [done in app.diagrams.net _(formerly draw.io)_](https://drive.google.com/file/d/1Jc0BBMfM1klZfjZ2x4Wah0PLK0q1V8qP/view?usp=sharing)
 
 # Acknowledgements
 
 _(Specially)_
 
-- Finally, to Omniscient, without whom, this project doesn't even reach this stage. All is **HIS** grace, nothing is mine.
+- Finally, to Omniscient, without whom, this project doesn't even reach this stage. All is **HIS** grace, nothing is ours.
